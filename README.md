@@ -1,20 +1,21 @@
 # PrintScreenEnableDisable
-Disable Print Screen
+<b>Disable Print Screen</b>
 
-Place the DisableScreen.reg file in your desktop
+1) Place the DisableScreen.reg file in your desktop
 
-Double click on it and click on the Prompt received
+2) Double click on it and click on the Prompt received
 
-Restart your computer
+3) Restart your computer
 
-You will not be able to use Print screen button
+4) You will not be able to use Print screen button
 
-Enable Print Screen
+--------------------------------------------------------
+<b>Enable Print Screen</b>
 
-Place the EnableScreen.reg file in your desktop.
+1) Place the EnableScreen.reg file in your desktop.
 
-Double click on it and click on the Prompt received
+2) Double click on it and click on the Prompt received
 
-Restart your computer
+3) Restart your computer
 
-You will be able to use Print screen button again
+4) You will be able to use Print screen button again
