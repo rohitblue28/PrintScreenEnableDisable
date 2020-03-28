@@ -3,7 +3,7 @@
 
 1) Place the DisableScreen.reg file in your desktop
 
-2) Double click on it and click on the Prompt received
+2) Double click on it and click Yes on the Prompt received
 
 3) Restart your computer
 
@@ -14,7 +14,7 @@
 
 1) Place the EnableScreen.reg file in your desktop.
 
-2) Double click on it and click on the Prompt received
+2) Double click on it and click Yes on the Prompt received
 
 3) Restart your computer
 
